@@ -1,0 +1,3 @@
+The pool thread solution takes much less time than concurrent.features solution.
+There are several reasons that make concurrent.features process slower in python (according to chatgpt).
+In this case, it might be overhead that is the reason.
